@@ -3,7 +3,17 @@ entries:
   reacttest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-16T16:10:07.700924124+05:30"
+    created: "2024-09-16T17:21:06.811364742+05:30"
+    description: A Helm chart for Kubernetes
+    digest: f0a9be1a7d782574b80df3951a6a3cca67239558f06e045af487ae7a840640fd
+    name: reacttest
+    type: application
+    urls:
+    - https://neeleshvaishnav88.github.io/testrect/reacttest-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-09-16T17:21:06.810553357+05:30"
     description: A Helm chart for Kubernetes
     digest: 7bca269e81e8209fe7b4d77abbb6b3c012103bf72363f91184255cbba178944f
     name: reacttest
@@ -13,7 +23,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-09-16T16:10:07.699387417+05:30"
+    created: "2024-09-16T17:21:06.809107814+05:30"
     description: A Helm chart for Kubernetes
     digest: b70b086ad00c93241f45eaae9c09a613f17564c5f0f1fd85fd5683af2022e462
     name: reacttest
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://neeleshvaishnav88.github.io/testrect/reacttest-0.1.0.tgz
     version: 0.1.0
-generated: "2024-09-16T16:10:07.694482241+05:30"
+generated: "2024-09-16T17:21:06.806697499+05:30"
